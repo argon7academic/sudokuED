@@ -3,6 +3,7 @@
 A simple sudoku solver.
 
 Execute example:
-```./sudoku unsolved.txt solution.txt solved.txt v
+```
+./sudoku unsolved.txt solution.txt solved.txt v
 ```
 
